@@ -1,4 +1,4 @@
-# Discord PY blacklist system, baning or kicking user that is on guild blacklist, you need database and one simple event for baning user on join
+# Discord PY blacklist system, baning or kicking user that is on guild blacklist, you need database and one simple event for baning or kicking user on join
 
 import discord
 from discord.ext import commands
